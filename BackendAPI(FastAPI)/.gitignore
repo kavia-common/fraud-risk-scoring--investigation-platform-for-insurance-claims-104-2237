@@ -1,0 +1,5 @@
+.venv/
+server.log
+data/data.db
+.env
+*.bak.*
